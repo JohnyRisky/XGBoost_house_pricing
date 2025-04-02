@@ -1,6 +1,12 @@
 # XGBoost_house_pricing
 XGBoosRegression model learning
 
-Модель обученная на XGBoost плохо справляется с поставленной задачей предсказания цен на недвижимость
-Надо попробовать другие способы обучения с этими же данными
-Далее попробую использовать random forrest или простую регрессию для улучшения качества прогнозов
+House pricing data analysis with Machine Learning in this project, I explored and cleaned the data, built a machine learning model (logistic regression), and made predictions.
+
+Technologies Used: Pandas, NumPy
+
+Matplotlib, Seaborn (for visualizations)
+
+Scikit-learn (XGBoost regression, data splitting)
+
+The model needs to be reconfigured as it is prediction results are no good.
